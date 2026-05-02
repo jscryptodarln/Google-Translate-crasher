@@ -3,7 +3,7 @@
 ## Project Overview: The Architecture of Digital Decay
 This repository is a systematic exploration into the boundaries of browser stability and hardware resilience. Through a tiered progression of JavaScript-based stress tests, this project demonstrates the exact threshold at which modern web architecture—specifically Google Translate’s UI—collapses under artificial resource exhaustion.
 
-### 🛠️ Execution Phases
+### Execution Phases
 The project is divided into four distinct stages of escalation:
 
 *   **Phase 1 :** Subtle UI subversion using `TreeWalker` to corrupt text nodes with Unicode artifacts, simulating a "haunted" interface.
