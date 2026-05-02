@@ -16,4 +16,5 @@ The project is divided into four distinct stages of escalation:
 Executing these scripts will likely cause Google Chrome to lag, hang, or crash entirely. Due to the aggressive nature of the memory-leak protocols and thread-locking recursion, running these on a primary host machine is strongly discouraged. It is **highly recommended** to run these only in a sandboxed **Virtual Machine (VM)**, as the intensity of the final phases is known to cause total system freezes, kernel-level failures, or Red Screens of Death (RSOD).
 
 **Proceed with caution; your hardware is the only limit.**
-Gemini helped me do this since i am new here.
+
+Gemini helped me do this since i am new here
